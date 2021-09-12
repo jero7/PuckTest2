@@ -75,6 +75,7 @@ function onLine(line) {
     setBarPos("barY", accel.y);
     setBarPos("barZ", accel.z);
   }
+  
 }
 // Set the position of each bar
 function setBarPos(id,d) {
